@@ -1,0 +1,21 @@
+.heading{
+font-size: 27px;
+margin: 0px;
+box-shadow: 5px 5px 5px aqua;
+
+}
+
+.heading_div{
+color: black;
+text-align: center;
+float: none;
+background: white;
+border-radius: 20px;
+padding: 10px;
+}
+
+.heading_div2{
+color: black;
+text-align: center;
+font-size: 15px;
+}
